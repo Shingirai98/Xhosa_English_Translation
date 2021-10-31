@@ -3,7 +3,7 @@
 End-to-end semi-supervised machine translation of isiXhosa and English
 
 ### Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
+Pilot the real time translation of under-resourced languages 
 
 ### Tech used
 * Language(s) : Python, JN
