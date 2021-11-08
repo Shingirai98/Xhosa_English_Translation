@@ -17,10 +17,10 @@ Pilot the real time translation of under-resourced languages
 ### File Structure
 
 ### Reference
-*JoeyNMT
-*JW300
-*Masakhane
-*XhosaNavy
+* JoeyNMT
+* JW300
+* Masakhane
+* XhosaNavy
 
 
 ### Licence
