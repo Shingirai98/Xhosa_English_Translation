@@ -18,9 +18,12 @@ Pilot the real time translation of under-resourced languages
 
 ### Reference
 JoeyNMT
+
 JW300
+
 Masakhane
-Xhosa Navy
+
+XhosaNavy
 
 
 ### Licence
